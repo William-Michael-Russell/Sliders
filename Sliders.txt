@@ -1,6 +1,6 @@
-## Title: Unicorn
+## Title: Sliders
 
-## Author: Helge Milde
+## Author: Awesomeb Original Author Helge Milde
 ## APIVersion: 100003
 
 Sliders.lua
